@@ -71,13 +71,13 @@ Table of Contents 📝
 **More About Invoke**
 1. 🌟 [Features](#features) 
 2. 📣 [Latest Changes](#latest-changes) 
-3. 🛠️ [Troubleshooting](#troubleshooting) 
+3. 🛠️ [Troubleshooting](#troubleshooting)
+4. ⚡ [Optimization(#Optimization)
 
 **Supporting the Project**
 1. 🤝 [Contributing](#contributing) 
 2. 👥 [Contributors](#contributors) 
 3. 💕 [Support](#support)
-4. ⚡ [Optimization(#Optimization)]
 
 ## Quick Start
 
