@@ -1,4 +1,4 @@
--- POSSIBLE OPTIMIZATION OF THE IMAGE'S GENERATION -- SEE BELOW "Possible Optimization"<div align="center">
+-- POSSIBLE OPTIMIZATION OF THE IMAGE'S GENERATION -- SEE BELOW "__Optimization__"<div align="center">
 
 ![project hero](https://github.com/invoke-ai/InvokeAI/assets/31807370/1a917d94-e099-4fa1-a70f-7dd8d0691018)
 
